@@ -20,12 +20,10 @@ Combinando rigor acadêmico e pragmatismo empresarial, acredito fortemente na ap
 <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-januario&layout=compact&langs_count=7&theme=gruvbox"/>
 
 <!--Redes sociais -->
-<div align="center">
+<div align="center" style="display: inline-block;">
 
 <a href="https://www.linkedin.com/in/anapfjanuario/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-<a href="https://www.instagram.com/anapfjanuario/" target="_blank"><img src="    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href="https://www.instagram.com/anapfjanuario/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://medium.com/@AnaPFJanuario" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 
 ![](https://visitor-badge.glintch.me/badge?page_id=ana-januario)
